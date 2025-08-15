@@ -31,9 +31,7 @@ Portfolio_Website_Development/
 ├── css/
 │   └── style.css
 ├── images/
-│   ├── about.jpg
-│   ├── b1b2.JPG
-│   ├── mini.jpg
-│   ├── proflie.jpg
-│   ├── proflie1.jpg
+│   ├── rus free man.JPG
+│   ├── Que.jpg
+│   ├── Retard.jpg
 └── README.md
